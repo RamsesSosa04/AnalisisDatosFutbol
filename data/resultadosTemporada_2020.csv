@@ -1,0 +1,381 @@
+﻿Liga,Temporada,Fecha y Hora,Estado,Equipo Local,Goles Local,Equipo Visitante,Goles Visitante,Tiros al Arco Local,Tiros al Arco Visitante,Tiros Totales Local,Tiros Totales Visitante,Posesión Local (%),Posesión Visitante (%),Tiros de Esquina Local,Tiros de Esquina Visitante,Faltas Local,Faltas Visitante,Pases Completos Local,Pases Completos Visitante
+Premier League,2020,2020-09-12T11:30:00+00:00,Match Finished,Fulham,0,Arsenal,3,2,6,5,13,45%,55%,2,3,12,12,N/A,N/A
+Premier League,2020,2020-09-12T14:00:00+00:00,Match Finished,Crystal Palace,1,Southampton,0,3,5,5,9,29%,71%,7,3,14,11,N/A,N/A
+Premier League,2020,2020-09-12T16:30:00+00:00,Match Finished,Liverpool,4,Leeds,3,6,3,22,6,48%,52%,9,0,9,6,N/A,N/A
+Premier League,2020,2020-09-12T19:00:00+00:00,Match Finished,West Ham,0,Newcastle,2,3,2,15,15,58%,42%,8,7,13,7,N/A,N/A
+Premier League,2020,2020-09-13T13:00:00+00:00,Match Finished,West Brom,0,Leicester,3,1,7,7,13,35%,65%,2,5,12,9,N/A,N/A
+Premier League,2020,2020-09-13T15:30:00+00:00,Match Finished,Tottenham,0,Everton,1,5,4,9,15,51%,49%,5,3,15,7,N/A,N/A
+Premier League,2020,2020-09-14T17:00:00+00:00,Match Finished,Sheffield Utd,0,Wolves,2,2,4,9,11,55%,45%,12,5,13,7,N/A,N/A
+Premier League,2020,2020-09-14T19:15:00+00:00,Match Finished,Brighton,1,Chelsea,3,3,5,13,10,52%,48%,4,3,8,13,N/A,N/A
+Premier League,2020,2020-09-19T11:30:00+00:00,Match Finished,Everton,5,West Brom,2,7,4,17,6,71%,29%,11,1,9,11,N/A,N/A
+Premier League,2020,2020-09-19T14:00:00+00:00,Match Finished,Leeds,4,Fulham,3,7,6,10,14,50%,50%,5,3,13,18,N/A,N/A
+Premier League,2020,2020-09-19T16:30:00+00:00,Match Finished,Manchester United,1,Crystal Palace,3,4,5,17,14,75%,25%,9,3,13,10,N/A,N/A
+Premier League,2020,2020-09-19T19:00:00+00:00,Match Finished,Arsenal,2,West Ham,1,3,3,7,14,62%,38%,7,5,11,13,N/A,N/A
+Premier League,2020,2020-09-20T11:00:00+00:00,Match Finished,Southampton,2,Tottenham,5,7,6,14,9,52%,48%,3,2,17,18,N/A,N/A
+Premier League,2020,2020-09-20T13:00:00+00:00,Match Finished,Newcastle,0,Brighton,3,0,6,6,13,47%,53%,7,1,16,15,N/A,N/A
+Premier League,2020,2020-09-20T15:30:00+00:00,Match Finished,Chelsea,0,Liverpool,2,3,6,5,18,38%,62%,1,11,10,6,N/A,N/A
+Premier League,2020,2020-09-20T18:00:00+00:00,Match Finished,Leicester,4,Burnley,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-21T17:00:00+00:00,Match Finished,Aston Villa,1,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-21T19:15:00+00:00,Match Finished,Wolves,1,Manchester City,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-26T11:30:00+00:00,Match Finished,Brighton,2,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-26T14:00:00+00:00,Match Finished,Crystal Palace,1,Everton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-26T16:30:00+00:00,Match Finished,West Brom,3,Chelsea,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-26T19:00:00+00:00,Match Finished,Burnley,0,Southampton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-27T11:00:00+00:00,Match Finished,Sheffield Utd,0,Leeds,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-27T13:00:00+00:00,Match Finished,Tottenham,1,Newcastle,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-27T15:30:00+00:00,Match Finished,Manchester City,2,Leicester,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-27T18:00:00+00:00,Match Finished,West Ham,4,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-28T16:45:00+00:00,Match Finished,Fulham,0,Aston Villa,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-09-28T19:00:00+00:00,Match Finished,Liverpool,3,Arsenal,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-03T11:30:00+00:00,Match Finished,Chelsea,4,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-03T14:00:00+00:00,Match Finished,Everton,4,Brighton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-03T16:30:00+00:00,Match Finished,Leeds,1,Manchester City,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-03T19:00:00+00:00,Match Finished,Newcastle,3,Burnley,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-04T11:00:00+00:00,Match Finished,Southampton,2,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-04T11:00:00+00:00,Match Finished,Leicester,0,West Ham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-04T13:00:00+00:00,Match Finished,Wolves,1,Fulham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-04T13:00:00+00:00,Match Finished,Arsenal,2,Sheffield Utd,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-04T15:30:00+00:00,Match Finished,Manchester United,1,Tottenham,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-04T18:15:00+00:00,Match Finished,Aston Villa,7,Liverpool,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-17T11:30:00+00:00,Match Finished,Everton,2,Liverpool,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-17T14:00:00+00:00,Match Finished,Chelsea,3,Southampton,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-17T16:30:00+00:00,Match Finished,Manchester City,1,Arsenal,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-17T19:00:00+00:00,Match Finished,Newcastle,1,Manchester United,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-18T11:00:00+00:00,Match Finished,Sheffield Utd,1,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-18T13:00:00+00:00,Match Finished,Crystal Palace,1,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-18T15:30:00+00:00,Match Finished,Tottenham,3,West Ham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-18T18:15:00+00:00,Match Finished,Leicester,0,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-19T16:30:00+00:00,Match Finished,West Brom,0,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-19T19:00:00+00:00,Match Finished,Leeds,0,Wolves,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-23T19:00:00+00:00,Match Finished,Aston Villa,0,Leeds,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-24T11:30:00+00:00,Match Finished,West Ham,1,Manchester City,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-24T14:00:00+00:00,Match Finished,Fulham,1,Crystal Palace,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-24T16:30:00+00:00,Match Finished,Manchester United,0,Chelsea,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-24T19:00:00+00:00,Match Finished,Liverpool,2,Sheffield Utd,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-25T14:00:00+00:00,Match Finished,Southampton,2,Everton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-25T16:30:00+00:00,Match Finished,Wolves,1,Newcastle,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-25T19:15:00+00:00,Match Finished,Arsenal,0,Leicester,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-26T17:30:00+00:00,Match Finished,Brighton,1,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-26T20:00:00+00:00,Match Finished,Burnley,0,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-30T20:00:00+00:00,Match Finished,Wolves,2,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-31T12:30:00+00:00,Match Finished,Sheffield Utd,0,Manchester City,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-31T15:00:00+00:00,Match Finished,Burnley,0,Chelsea,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-10-31T17:30:00+00:00,Match Finished,Liverpool,2,West Ham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-01T12:00:00+00:00,Match Finished,Aston Villa,3,Southampton,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-01T14:00:00+00:00,Match Finished,Newcastle,2,Everton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-01T16:30:00+00:00,Match Finished,Manchester United,0,Arsenal,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-01T19:15:00+00:00,Match Finished,Tottenham,2,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-02T17:30:00+00:00,Match Finished,Fulham,2,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-02T20:00:00+00:00,Match Finished,Leeds,1,Leicester,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-06T17:30:00+00:00,Match Finished,Brighton,0,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-06T20:00:00+00:00,Match Finished,Southampton,2,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-07T12:30:00+00:00,Match Finished,Everton,1,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-07T15:00:00+00:00,Match Finished,Crystal Palace,4,Leeds,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-07T17:30:00+00:00,Match Finished,Chelsea,4,Sheffield Utd,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-07T20:00:00+00:00,Match Finished,West Ham,1,Fulham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-08T12:00:00+00:00,Match Finished,West Brom,0,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-08T14:00:00+00:00,Match Finished,Leicester,1,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-08T16:30:00+00:00,Match Finished,Manchester City,1,Liverpool,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-08T19:15:00+00:00,Match Finished,Arsenal,0,Aston Villa,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-21T12:30:00+00:00,Match Finished,Newcastle,0,Chelsea,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-21T15:00:00+00:00,Match Finished,Aston Villa,1,Brighton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-21T17:30:00+00:00,Match Finished,Tottenham,2,Manchester City,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-21T20:00:00+00:00,Match Finished,Manchester United,1,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-22T12:00:00+00:00,Match Finished,Fulham,2,Everton,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-22T14:00:00+00:00,Match Finished,Sheffield Utd,0,West Ham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-22T16:30:00+00:00,Match Finished,Leeds,0,Arsenal,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-22T19:15:00+00:00,Match Finished,Liverpool,3,Leicester,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-23T17:30:00+00:00,Match Finished,Burnley,1,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-23T20:00:00+00:00,Match Finished,Wolves,1,Southampton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-27T20:00:00+00:00,Match Finished,Crystal Palace,0,Newcastle,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-28T12:30:00+00:00,Match Finished,Brighton,1,Liverpool,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-28T15:00:00+00:00,Match Finished,Manchester City,5,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-28T17:30:00+00:00,Match Finished,Everton,0,Leeds,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-28T20:00:00+00:00,Match Finished,West Brom,1,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-29T14:00:00+00:00,Match Finished,Southampton,2,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-29T16:30:00+00:00,Match Finished,Chelsea,0,Tottenham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-29T19:15:00+00:00,Match Finished,Arsenal,1,Wolves,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-30T17:30:00+00:00,Match Finished,Leicester,1,Fulham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-11-30T20:00:00+00:00,Match Finished,West Ham,2,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-05T12:30:00+00:00,Match Finished,Burnley,1,Everton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-05T15:00:00+00:00,Match Finished,Manchester City,2,Fulham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-05T17:30:00+00:00,Match Finished,West Ham,1,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-05T20:00:00+00:00,Match Finished,Chelsea,3,Leeds,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-06T12:00:00+00:00,Match Finished,West Brom,1,Crystal Palace,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-06T14:15:00+00:00,Match Finished,Sheffield Utd,1,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-06T16:30:00+00:00,Match Finished,Tottenham,2,Arsenal,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-06T19:15:00+00:00,Match Finished,Liverpool,4,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-07T20:00:00+00:00,Match Finished,Brighton,1,Southampton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-11T20:00:00+00:00,Match Finished,Leeds,1,West Ham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-12T12:30:00+00:00,Match Finished,Wolves,0,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-12T15:00:00+00:00,Match Finished,Newcastle,2,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-12T17:30:00+00:00,Match Finished,Manchester United,0,Manchester City,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-12T20:00:00+00:00,Match Finished,Everton,1,Chelsea,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-13T12:00:00+00:00,Match Finished,Southampton,3,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-13T14:15:00+00:00,Match Finished,Crystal Palace,1,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-13T16:30:00+00:00,Match Finished,Fulham,1,Liverpool,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-13T19:15:00+00:00,Match Finished,Arsenal,0,Burnley,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-13T19:15:00+00:00,Match Finished,Leicester,3,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-15T18:00:00+00:00,Match Finished,Wolves,2,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-15T20:00:00+00:00,Match Finished,Manchester City,1,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-16T18:00:00+00:00,Match Finished,Arsenal,1,Southampton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-16T18:00:00+00:00,Match Finished,Leicester,0,Everton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-16T18:00:00+00:00,Match Finished,Leeds,5,Newcastle,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-16T20:00:00+00:00,Match Finished,Fulham,0,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-16T20:00:00+00:00,Match Finished,Liverpool,2,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-16T20:00:00+00:00,Match Finished,West Ham,1,Crystal Palace,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-17T18:00:00+00:00,Match Finished,Aston Villa,0,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-17T20:00:00+00:00,Match Finished,Sheffield Utd,2,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-19T12:30:00+00:00,Match Finished,Crystal Palace,0,Liverpool,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-19T15:00:00+00:00,Match Finished,Southampton,0,Manchester City,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-19T17:30:00+00:00,Match Finished,Everton,2,Arsenal,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-19T20:00:00+00:00,Match Finished,Newcastle,1,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-20T12:00:00+00:00,Match Finished,Brighton,1,Sheffield Utd,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-20T14:15:00+00:00,Match Finished,Tottenham,0,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-20T16:30:00+00:00,Match Finished,Manchester United,6,Leeds,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-20T19:15:00+00:00,Match Finished,West Brom,0,Aston Villa,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-21T17:30:00+00:00,Match Finished,Burnley,2,Wolves,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-21T20:00:00+00:00,Match Finished,Chelsea,3,West Ham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-26T12:30:00+00:00,Match Finished,Leicester,2,Manchester United,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-26T15:00:00+00:00,Match Finished,Fulham,0,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-26T15:00:00+00:00,Match Finished,Aston Villa,3,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-26T17:30:00+00:00,Match Finished,Arsenal,3,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-26T20:00:00+00:00,Match Finished,Manchester City,2,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-26T20:00:00+00:00,Match Finished,Sheffield Utd,0,Everton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-27T12:00:00+00:00,Match Finished,Leeds,1,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-27T14:15:00+00:00,Match Finished,West Ham,2,Brighton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-27T16:30:00+00:00,Match Finished,Liverpool,1,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-27T19:15:00+00:00,Match Finished,Wolves,1,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-28T15:00:00+00:00,Match Finished,Crystal Palace,1,Leicester,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-28T17:30:00+00:00,Match Finished,Chelsea,1,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-29T18:00:00+00:00,Match Finished,Southampton,0,West Ham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-29T18:00:00+00:00,Match Finished,Burnley,1,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-29T18:00:00+00:00,Match Finished,Brighton,0,Arsenal,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-29T18:00:00+00:00,Match Finished,West Brom,0,Leeds,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-29T20:00:00+00:00,Match Finished,Manchester United,1,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2020-12-30T20:00:00+00:00,Match Finished,Newcastle,0,Liverpool,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-01T17:30:00+00:00,Match Finished,Everton,0,West Ham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-01T20:00:00+00:00,Match Finished,Manchester United,2,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-02T12:30:00+00:00,Match Finished,Tottenham,3,Leeds,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-02T15:00:00+00:00,Match Finished,Crystal Palace,2,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-02T17:30:00+00:00,Match Finished,Brighton,3,Wolves,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-02T20:00:00+00:00,Match Finished,West Brom,0,Arsenal,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-03T14:15:00+00:00,Match Finished,Newcastle,1,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-03T16:30:00+00:00,Match Finished,Chelsea,1,Manchester City,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-04T20:00:00+00:00,Match Finished,Southampton,1,Liverpool,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-12T18:00:00+00:00,Match Finished,Sheffield Utd,1,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-12T20:15:00+00:00,Match Finished,Wolves,1,Everton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-12T20:15:00+00:00,Match Finished,Burnley,0,Manchester United,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-13T18:00:00+00:00,Match Finished,Manchester City,1,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-13T20:15:00+00:00,Match Finished,Tottenham,1,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-14T20:00:00+00:00,Match Finished,Arsenal,0,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-16T12:30:00+00:00,Match Finished,Wolves,2,West Brom,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-16T15:00:00+00:00,Match Finished,West Ham,1,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-16T15:00:00+00:00,Match Finished,Leeds,0,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-16T17:30:00+00:00,Match Finished,Fulham,0,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-16T20:00:00+00:00,Match Finished,Leicester,2,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-17T14:00:00+00:00,Match Finished,Sheffield Utd,1,Tottenham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-17T16:30:00+00:00,Match Finished,Liverpool,0,Manchester United,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-17T19:15:00+00:00,Match Finished,Manchester City,4,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-18T20:00:00+00:00,Match Finished,Arsenal,3,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-19T18:00:00+00:00,Match Finished,West Ham,2,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-19T20:15:00+00:00,Match Finished,Leicester,2,Chelsea,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-20T18:00:00+00:00,Match Finished,Manchester City,2,Aston Villa,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-20T20:15:00+00:00,Match Finished,Fulham,1,Manchester United,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-21T20:00:00+00:00,Match Finished,Liverpool,0,Burnley,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-23T20:00:00+00:00,Match Finished,Aston Villa,2,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-26T18:00:00+00:00,Match Finished,Newcastle,1,Leeds,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-26T18:00:00+00:00,Match Finished,Crystal Palace,2,West Ham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-26T20:15:00+00:00,Match Finished,Southampton,1,Arsenal,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-26T20:15:00+00:00,Match Finished,West Brom,0,Manchester City,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-27T18:00:00+00:00,Match Finished,Burnley,3,Aston Villa,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-27T18:00:00+00:00,Match Finished,Chelsea,0,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-27T19:30:00+00:00,Match Finished,Brighton,0,Fulham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-27T20:15:00+00:00,Match Finished,Manchester United,1,Sheffield Utd,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-27T20:15:00+00:00,Match Finished,Everton,1,Leicester,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-28T20:00:00+00:00,Match Finished,Tottenham,1,Liverpool,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-30T12:30:00+00:00,Match Finished,Everton,0,Newcastle,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-01-30T15:00:00+00:00,Match Finished,Manchester City,1,Sheffield Utd,0,5,1,10,4,75%,25%,10,0,7,10,N/A,N/A
+Premier League,2020,2021-01-30T15:00:00+00:00,Match Finished,Crystal Palace,1,Wolves,0,2,4,11,6,47%,53%,1,6,7,10,N/A,N/A
+Premier League,2020,2021-01-30T15:00:00+00:00,Match Finished,West Brom,2,Fulham,2,3,7,5,12,37%,63%,2,3,9,10,N/A,N/A
+Premier League,2020,2021-01-30T17:30:00+00:00,Match Finished,Arsenal,0,Manchester United,0,3,3,17,14,43%,57%,4,7,9,16,N/A,N/A
+Premier League,2020,2021-01-30T20:00:00+00:00,Match Finished,Southampton,0,Aston Villa,1,5,4,20,8,59%,41%,7,1,12,11,N/A,N/A
+Premier League,2020,2021-01-31T12:00:00+00:00,Match Finished,Chelsea,2,Burnley,0,8,0,19,1,71%,29%,4,2,7,9,N/A,N/A
+Premier League,2020,2021-01-31T14:00:00+00:00,Match Finished,Leicester,1,Leeds,3,8,7,18,8,50%,50%,5,4,17,16,N/A,N/A
+Premier League,2020,2021-01-31T16:30:00+00:00,Match Finished,West Ham,1,Liverpool,3,2,5,8,14,32%,68%,6,4,7,8,N/A,N/A
+Premier League,2020,2021-01-31T19:15:00+00:00,Match Finished,Brighton,1,Tottenham,0,5,4,16,8,43%,57%,9,2,11,11,N/A,N/A
+Premier League,2020,2021-02-02T18:00:00+00:00,Match Finished,Wolves,2,Arsenal,1,7,3,11,9,54%,46%,9,6,11,8,N/A,N/A
+Premier League,2020,2021-02-02T18:00:00+00:00,Match Finished,Sheffield Utd,2,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-02T20:15:00+00:00,Match Finished,Manchester United,9,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-02T20:15:00+00:00,Match Finished,Newcastle,1,Crystal Palace,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-03T18:00:00+00:00,Match Finished,Fulham,0,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-03T18:00:00+00:00,Match Finished,Burnley,0,Manchester City,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-03T19:30:00+00:00,Match Finished,Leeds,1,Everton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-03T20:15:00+00:00,Match Finished,Liverpool,0,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-03T20:15:00+00:00,Match Finished,Aston Villa,1,West Ham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-04T20:00:00+00:00,Match Finished,Tottenham,0,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-06T12:30:00+00:00,Match Finished,Aston Villa,1,Arsenal,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-06T15:00:00+00:00,Match Finished,Newcastle,3,Southampton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-06T15:00:00+00:00,Match Finished,Burnley,1,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-06T17:30:00+00:00,Match Finished,Fulham,0,West Ham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-06T20:00:00+00:00,Match Finished,Manchester United,3,Everton,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-07T12:00:00+00:00,Match Finished,Tottenham,2,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-07T14:00:00+00:00,Match Finished,Wolves,0,Leicester,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-07T16:30:00+00:00,Match Finished,Liverpool,1,Manchester City,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-07T19:15:00+00:00,Match Finished,Sheffield Utd,1,Chelsea,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-08T20:00:00+00:00,Match Finished,Leeds,2,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-13T12:30:00+00:00,Match Finished,Leicester,3,Liverpool,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-13T15:00:00+00:00,Match Finished,Crystal Palace,0,Burnley,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-13T17:30:00+00:00,Match Finished,Manchester City,3,Tottenham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-13T20:00:00+00:00,Match Finished,Brighton,0,Aston Villa,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-14T12:00:00+00:00,Match Finished,Southampton,1,Wolves,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-14T14:00:00+00:00,Match Finished,West Brom,1,Manchester United,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-14T16:30:00+00:00,Match Finished,Arsenal,4,Leeds,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-14T19:00:00+00:00,Match Finished,Everton,0,Fulham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-15T18:00:00+00:00,Match Finished,West Ham,3,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-15T20:00:00+00:00,Match Finished,Chelsea,2,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-17T18:00:00+00:00,Match Finished,Burnley,1,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-17T20:15:00+00:00,Match Finished,Everton,1,Manchester City,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-19T20:00:00+00:00,Match Finished,Wolves,1,Leeds,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-20T12:30:00+00:00,Match Finished,Southampton,1,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-20T15:00:00+00:00,Match Finished,Burnley,0,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-20T17:30:00+00:00,Match Finished,Liverpool,0,Everton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-20T20:00:00+00:00,Match Finished,Fulham,1,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-21T12:00:00+00:00,Match Finished,West Ham,2,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-21T14:05:00+00:00,Match Finished,Aston Villa,1,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-21T16:30:00+00:00,Match Finished,Arsenal,0,Manchester City,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-21T19:00:00+00:00,Match Finished,Manchester United,3,Newcastle,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-22T20:00:00+00:00,Match Finished,Brighton,1,Crystal Palace,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-23T18:00:00+00:00,Match Finished,Leeds,3,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-27T12:30:00+00:00,Match Finished,Manchester City,2,West Ham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-27T15:00:00+00:00,Match Finished,West Brom,1,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-27T17:30:00+00:00,Match Finished,Leeds,0,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-27T20:00:00+00:00,Match Finished,Newcastle,1,Wolves,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-28T12:00:00+00:00,Match Finished,Leicester,1,Arsenal,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-28T12:00:00+00:00,Match Finished,Crystal Palace,0,Fulham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-28T14:00:00+00:00,Match Finished,Tottenham,4,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-28T16:30:00+00:00,Match Finished,Chelsea,0,Manchester United,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-02-28T19:15:00+00:00,Match Finished,Sheffield Utd,0,Liverpool,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-01T20:00:00+00:00,Match Finished,Everton,1,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-02T20:00:00+00:00,Match Finished,Manchester City,4,Wolves,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-03T18:00:00+00:00,Match Finished,Burnley,1,Leicester,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-03T18:00:00+00:00,Match Finished,Sheffield Utd,1,Aston Villa,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-03T20:15:00+00:00,Match Finished,Crystal Palace,0,Manchester United,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-04T18:00:00+00:00,Match Finished,Fulham,0,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-04T18:00:00+00:00,Match Finished,West Brom,0,Everton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-04T20:15:00+00:00,Match Finished,Liverpool,0,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-06T12:30:00+00:00,Match Finished,Burnley,1,Arsenal,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-06T15:00:00+00:00,Match Finished,Sheffield Utd,0,Southampton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-06T17:30:00+00:00,Match Finished,Aston Villa,0,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-06T20:00:00+00:00,Match Finished,Brighton,1,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-07T12:00:00+00:00,Match Finished,West Brom,0,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-07T14:00:00+00:00,Match Finished,Liverpool,0,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-07T16:30:00+00:00,Match Finished,Manchester City,0,Manchester United,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-07T19:15:00+00:00,Match Finished,Tottenham,4,Crystal Palace,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-08T18:00:00+00:00,Match Finished,Chelsea,2,Everton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-08T20:00:00+00:00,Match Finished,West Ham,2,Leeds,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-10T18:00:00+00:00,Match Finished,Manchester City,5,Southampton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-12T20:00:00+00:00,Match Finished,Newcastle,1,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-13T12:30:00+00:00,Match Finished,Leeds,0,Chelsea,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-13T15:00:00+00:00,Match Finished,Crystal Palace,1,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-13T17:30:00+00:00,Match Finished,Everton,1,Burnley,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-13T20:00:00+00:00,Match Finished,Fulham,0,Manchester City,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-14T12:00:00+00:00,Match Finished,Southampton,1,Brighton,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-14T14:00:00+00:00,Match Finished,Leicester,5,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-14T16:30:00+00:00,Match Finished,Arsenal,2,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-14T19:15:00+00:00,Match Finished,Manchester United,1,West Ham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-15T20:00:00+00:00,Match Finished,Wolves,0,Liverpool,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-19T20:00:00+00:00,Match Finished,Fulham,1,Leeds,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-20T20:00:00+00:00,Match Finished,Brighton,3,Newcastle,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-21T15:00:00+00:00,Match Finished,West Ham,3,Arsenal,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-03-21T19:30:00+00:00,Match Finished,Aston Villa,0,Tottenham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-03T11:30:00+00:00,Match Finished,Chelsea,2,West Brom,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-03T14:00:00+00:00,Match Finished,Leeds,2,Sheffield Utd,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-03T16:30:00+00:00,Match Finished,Leicester,0,Manchester City,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-03T19:00:00+00:00,Match Finished,Arsenal,0,Liverpool,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-04T11:00:00+00:00,Match Finished,Southampton,3,Burnley,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-04T13:05:00+00:00,Match Finished,Newcastle,2,Tottenham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-04T15:30:00+00:00,Match Finished,Aston Villa,3,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-04T18:30:00+00:00,Match Finished,Manchester United,2,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-05T17:00:00+00:00,Match Finished,Everton,1,Crystal Palace,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-05T19:15:00+00:00,Match Finished,Wolves,2,West Ham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-09T19:00:00+00:00,Match Finished,Fulham,0,Wolves,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-10T11:30:00+00:00,Match Finished,Manchester City,1,Leeds,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-10T14:00:00+00:00,Match Finished,Liverpool,2,Aston Villa,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-10T16:30:00+00:00,Match Finished,Crystal Palace,1,Chelsea,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-11T11:00:00+00:00,Match Finished,Burnley,1,Newcastle,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-11T13:05:00+00:00,Match Finished,West Ham,3,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-11T15:30:00+00:00,Match Finished,Tottenham,1,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-11T18:00:00+00:00,Match Finished,Sheffield Utd,0,Arsenal,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-12T17:00:00+00:00,Match Finished,West Brom,3,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-12T19:15:00+00:00,Match Finished,Brighton,0,Everton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-16T19:00:00+00:00,Match Finished,Everton,2,Tottenham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-17T11:30:00+00:00,Match Finished,Newcastle,3,West Ham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-17T19:15:00+00:00,Match Finished,Wolves,1,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-18T12:30:00+00:00,Match Finished,Arsenal,1,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-18T15:00:00+00:00,Match Finished,Manchester United,3,Burnley,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-19T19:00:00+00:00,Match Finished,Leeds,1,Liverpool,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-20T19:15:00+00:00,Match Finished,Chelsea,0,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-21T17:00:00+00:00,Match Finished,Tottenham,2,Southampton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-21T19:15:00+00:00,Match Finished,Aston Villa,1,Manchester City,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-22T19:00:00+00:00,Match Finished,Leicester,3,West Brom,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-23T19:00:00+00:00,Match Finished,Arsenal,0,Everton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-24T11:30:00+00:00,Match Finished,Liverpool,1,Newcastle,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-24T16:30:00+00:00,Match Finished,West Ham,0,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-24T19:00:00+00:00,Match Finished,Sheffield Utd,1,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-25T11:00:00+00:00,Match Finished,Wolves,0,Burnley,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-25T13:00:00+00:00,Match Finished,Leeds,0,Manchester United,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-25T18:00:00+00:00,Match Finished,Aston Villa,2,West Brom,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-26T19:00:00+00:00,Match Finished,Leicester,2,Crystal Palace,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-04-30T19:00:00+00:00,Match Finished,Southampton,1,Leicester,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-01T11:30:00+00:00,Match Finished,Crystal Palace,0,Manchester City,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-01T14:00:00+00:00,Match Finished,Brighton,2,Leeds,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-01T16:30:00+00:00,Match Finished,Chelsea,2,Fulham,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-01T19:00:00+00:00,Match Finished,Everton,1,Aston Villa,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-02T13:00:00+00:00,Match Finished,Newcastle,0,Arsenal,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-02T18:15:00+00:00,Match Finished,Tottenham,4,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-03T17:00:00+00:00,Match Finished,West Brom,1,Wolves,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-03T19:15:00+00:00,Match Finished,Burnley,1,West Ham,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-07T19:00:00+00:00,Match Finished,Leicester,2,Newcastle,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-08T11:30:00+00:00,Match Finished,Leeds,3,Tottenham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-08T14:00:00+00:00,Match Finished,Sheffield Utd,0,Crystal Palace,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-08T16:30:00+00:00,Match Finished,Manchester City,1,Chelsea,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-08T19:15:00+00:00,Match Finished,Liverpool,2,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-09T11:00:00+00:00,Match Finished,Wolves,2,Brighton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-09T13:05:00+00:00,Match Finished,Aston Villa,1,Manchester United,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-09T15:30:00+00:00,Match Finished,West Ham,0,Everton,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-09T18:00:00+00:00,Match Finished,Arsenal,3,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-10T19:00:00+00:00,Match Finished,Fulham,0,Burnley,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-11T17:00:00+00:00,Match Finished,Manchester United,1,Leicester,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-11T19:15:00+00:00,Match Finished,Southampton,3,Crystal Palace,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-12T19:15:00+00:00,Match Finished,Chelsea,0,Arsenal,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-13T17:00:00+00:00,Match Finished,Aston Villa,0,Everton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-13T19:15:00+00:00,Match Finished,Manchester United,2,Liverpool,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-14T19:00:00+00:00,Match Finished,Newcastle,3,Manchester City,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-15T11:30:00+00:00,Match Finished,Burnley,0,Leeds,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-15T14:00:00+00:00,Match Finished,Southampton,3,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-15T19:00:00+00:00,Match Finished,Brighton,1,West Ham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-16T11:00:00+00:00,Match Finished,Crystal Palace,3,Aston Villa,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-16T13:05:00+00:00,Match Finished,Tottenham,2,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-16T15:30:00+00:00,Match Finished,West Brom,1,Liverpool,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-16T18:00:00+00:00,Match Finished,Everton,0,Sheffield Utd,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-18T17:00:00+00:00,Match Finished,Manchester United,1,Fulham,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-18T17:00:00+00:00,Match Finished,Southampton,0,Leeds,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-18T18:00:00+00:00,Match Finished,Brighton,3,Manchester City,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-18T19:15:00+00:00,Match Finished,Chelsea,2,Leicester,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-19T17:00:00+00:00,Match Finished,Newcastle,1,Sheffield Utd,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-19T17:00:00+00:00,Match Finished,Everton,1,Wolves,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-19T17:00:00+00:00,Match Finished,Tottenham,1,Aston Villa,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-19T18:00:00+00:00,Match Finished,Crystal Palace,1,Arsenal,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-19T19:15:00+00:00,Match Finished,Burnley,0,Liverpool,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-19T19:15:00+00:00,Match Finished,West Brom,1,West Ham,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Fulham,0,Newcastle,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Wolves,1,Manchester United,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Liverpool,2,Crystal Palace,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Arsenal,2,Brighton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Leicester,2,Tottenham,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,West Ham,3,Southampton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Manchester City,5,Everton,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Sheffield Utd,1,Burnley,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Leeds,3,West Brom,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Premier League,2020,2021-05-23T15:00:00+00:00,Match Finished,Aston Villa,2,Chelsea,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
